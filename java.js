@@ -1,5 +1,5 @@
-function subtrair ( a , b){
+function Multiplicar ( a , b){
 
-return (a+b);
+return (a*b);
 
 }
