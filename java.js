@@ -1,5 +1,5 @@
-function Multiplicar ( a , b){
+function Dividir ( a , b){
 
-return (a*b);
+return (a/b);
 
 }
